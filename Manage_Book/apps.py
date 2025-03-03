@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ManageEmployeesConfig(AppConfig):
+class Manage_BookConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'Manage_Employees'
+    name = 'Manage_Book'
